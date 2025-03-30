@@ -33,7 +33,7 @@ This allows all previous settings to act in their original, unbugged behaviour, 
 | --- | --- |
 | Less Naughty | General mix of NICE and NAUGHTY prompts. |
 | Normal | General mix of NAUGHTY and NASTY prompts, with one NICE prompt in your first game with 'Same Players.' The default behaviour on launch. |
-| Spicy | Just NASTY prompts, with one NAUGHTY prompt in your first game with 'Same Players.' |
+| Nasty | Just NASTY prompts, with one NAUGHTY prompt in your first game with 'Same Players.' |
 | Just Nice | Just NICE prompts, original bugged behaviour of Content Level 'Less Naughty' |
 | Just Naughty | Just NAUGHTY prompts, original bugged behaviour of Content Level 'Normal' |
 | Just Nasty | Just NASTY prompts, original bugged behaviour of Content Level 'Nasty' |
