@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "name": "FakinIt2",
+      "mainSwf": "FakinIt2.swf",
+      "icons": [
+        { "tag": "TIME", "value": "20-30" },
+        { "tag": "PLAYERS", "value": "3-8" },
+        { "tag": "WRITING", "value": "" },
+        { "tag": "HIDDENID", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_1",
+      "menu":"MENU_GAME_NAME_1",
+      "video":"FakinIt2",
+      "audio":"PICKER/MUSIC/FakinItANL",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "Drawful3",
+      "mainSwf": "Drawful3.swf",
+      "icons": [
+        { "tag": "TIME", "value": "15-30" },
+        { "tag": "PLAYERS", "value": "3-10" },
+        { "tag": "DRAWING", "value": "" },
+        { "tag": "WRITING", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_2",
+      "menu":"MENU_GAME_NAME_2",
+      "video":"Drawful3",
+      "audio":"PICKER/MUSIC/DirtyDrawful",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "CAPTCHA",
+      "mainSwf": "CAPTCHA.swf",
+      "icons": [
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "3-8" },
+        { "tag": "DRAWING", "value": "" },
+        { "tag": "OUTLOUD", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_3",
+      "menu":"MENU_GAME_NAME_3",
+      "video":"CAPTCHA",
+      "audio":"PICKER/MUSIC/LetMeFinish",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "Settings",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_SETTINGS",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "HowTo",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_HOW_TO",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    }
+  ]
+}
